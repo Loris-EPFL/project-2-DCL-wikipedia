@@ -14,3 +14,9 @@ https://dumps.wikimedia.org/frwiki/20251101/frwiki-20251101-pages-articles-multi
 https://dumps.wikimedia.org/frwiki/20251101/frwiki-20251101-pages-articles-multistream-index.txt.bz2
 
 From : https://dumps.wikimedia.org/frwiki/20251101/
+
+
+https://arxiv.org/abs/1902.04298 : Complete Links datasets ?
+
+=> https://zenodo.org/records/2539424
+
