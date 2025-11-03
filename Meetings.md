@@ -5,4 +5,7 @@ En premier on relie des chunk de document entre eux, ensuite la partie intéress
 En premier on prend un subset (uel articles fortement liés et d'autres qui n'ont pas de rapport), faire des expérience avec la taille des chunk et la taille de l'intersect
 Le nombre de chunk d'un même article en relation avec un autre article est une métrique intéressante aussi 
 
-
+* Parsing -> deal avec les balises
+* Créer les chunk -> expérimentation avec les tailles
+* Créer les embeddings
+* Stocker les embeddings dans une db
