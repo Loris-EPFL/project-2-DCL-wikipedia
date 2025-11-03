@@ -21,6 +21,12 @@ https://arxiv.org/abs/1902.04298 : Complete Links datasets ?
 => https://zenodo.org/records/2539424
 
 
+Tools :
+
+Reformat xml dumps into plaintext:
+https://github.com/wolfgarbe/WikipediaExport
+
+
 ````markdown
 # 🧠 Wikipedia Link Reconstruction via Semantic Retrieval (RAG-style)
 
