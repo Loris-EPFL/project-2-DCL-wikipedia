@@ -1,4 +1,12 @@
 # Meetings
+## 10.11.2025
+Si c'est en français, les llm seront peutêtre moins bon, peutêtre qu'une db anglais serait meilleure
+
+L'intuition nous dit que le référencement d'auteurs par exemple ne sera pas bon i.e. pas le premier, une fois que c'est confirmer, essayer de voir comment choisir parmis les top choice 
+On pourra éventuellement faire de la classification sur les top choice (On donne les 4 choix et le modèle choisit le meilleure)
+
+On peut commencer par faire uniquement sur les parties qui contiennent déjà des liens et ignorer le reste
+
 ## 03.11.2025
 Premier Step, analyser la db, comprendre le problème -> objectif : relier des mots avec d'autres textes de la db
 En premier on relie des chunk de document entre eux, ensuite la partie intéressante du projet sera de voir quelle partie du chunk est importante
