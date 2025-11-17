@@ -1,4 +1,8 @@
 # Meetings
+## 17.11.2025
+On a besoin de stoquer les liens et la position dans la db pour faire la comparaison avec les 2 métriques. On fait du bon travail si les 2 bonnes, 1 seul n'est pas suffisant.
+
+
 ## 10.11.2025
 Si c'est en français, les llm seront peutêtre moins bon, peutêtre qu'une db anglais serait meilleure
 
