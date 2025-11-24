@@ -1,4 +1,8 @@
 # Meetings
+
+## 24.11.2025
+On voit que la similarité entre les articles n'est pas directement pertinente, c'est là qu'on voit que les chunks ont leurs importance. Il faut essayer de faire de la compairaison entre chunk et comparaison entre chunk et article. Dans une phrase où il y a un lien on fait la similarité entre cette phrase et les articles. On veut plus que de la similarité on veut le lien direct, peutêtre que la similarité n'est pas complète pour faire ça et il faudra être créatif dans d'autre approche. Plus tard on pourra essayer de mettre le mot qui contient le lien comme sujet principale d'une nouvelle phrase. 
+
 ## 17.11.2025
 On a besoin de stoquer les liens et la position dans la db pour faire la comparaison avec les 2 métriques. On fait du bon travail si les 2 bonnes, 1 seul n'est pas suffisant.
 
