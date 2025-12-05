@@ -1,3 +1,5 @@
 *.json
 *.csv
 .env
+articles_fr_withLinks.parquet
+models
