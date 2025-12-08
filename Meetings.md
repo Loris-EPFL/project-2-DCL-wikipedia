@@ -1,4 +1,14 @@
 # Meetings
+
+## 08.12.2025
+Essayer de faire la comparaison directement avec le mot tous seul et pas avec une phrase pour valider l'hypothèse que la phrase brouille les pistes.
+vérifier que ce n'est pas un bug (double check le code qui calcul nos métrics)
+
+Si ça ne marche pas on peut essayer de construire une phrase autour du mot principal 
+On peut essayer de ne pas comparer avec l'entier de l'article mais par example seulement avec le titre.
+
+
+
 ## 03.11.2025
 Premier Step, analyser la db, comprendre le problème -> objectif : relier des mots avec d'autres textes de la db
 En premier on relie des chunk de document entre eux, ensuite la partie intéressante du projet sera de voir quelle partie du chunk est importante
